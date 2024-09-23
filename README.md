@@ -4,32 +4,4 @@ Protótipo Conecta Empresas: https://www.figma.com/proto/M7BWqOVoXNQ24iyHNFmGQG/
 # Sistema de Venda de Pacote de Dados para Consórcio.
 
 
-Este projeto é um sistema de venda de pacotes de dados para consórcios, desenvolvido utilizando Node.js, Express, MongoDB, e JavaScript. Ele oferece funcionalidades para cadastro de usuários e autenticação, garantindo a segurança das informações através de criptografia de senhas.
-
-Funcionalidades:
-
-Cadastro de Usuário: Permite que novos usuários se registrem no sistema com um nome de usuário e senha.
-Login de Usuário: Autentica os usuários registrados para acesso seguro ao sistema.
-Integração com MongoDB: Armazena os dados dos usuários de forma segura utilizando MongoDB Atlas.
-Hashing de Senhas: As senhas são criptografadas com bcrypt para garantir a segurança dos dados.
-
-
-Estrutura do Projeto:
-
-Backend: Desenvolvido em Node.js e Express, com integração ao banco de dados MongoDB.
-Frontend: HTML, CSS, e JavaScript para as interfaces de cadastro e login.
-
-
-Como Rodar o Projeto:
-
-Clone este repositório.
-Instale as dependências com npm install.
-Configure as variáveis de ambiente no arquivo .env.
-Inicie o servidor com npm start.
-Acesse o sistema via navegador em http://localhost:3000.
-
-
-Requisitos:
-Node.js
-MongoDB (Atlas ou Local)
-Navegador Web
+O Conecta Empresas é um sistema voltado para a comercialização de pacotes de dados específicos para consórcios. Seu objetivo principal é fornecer soluções personalizadas de dados para diferentes setores, como imobiliário, automotivo, e turismo. A plataforma foi desenvolvida para facilitar o acesso de empresas a informações estratégicas, possibilitando tomadas de decisão mais eficientes. Além disso, oferece uma interface intuitiva, opções de pagamento integradas, e suporte especializado, garantindo uma experiência otimizada para seus usuários empresariais.
